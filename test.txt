@@ -1,4 +1,4 @@
 Hello World
 This is my first file in Git
 This is a test
-
+This is a new test from Git - I updated this line
